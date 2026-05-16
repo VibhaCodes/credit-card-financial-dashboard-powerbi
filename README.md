@@ -23,7 +23,7 @@ The dashboard was built using the following tools and technologies:
 
 - Data Modeling : Customer and credit card transaction tables connected for analysis
 
-- File Formats : .pbix, .csv, .sql, .pdf
+- File Formats : .pbix, .csv, .sql, .png, .pdf
 
 
 **4. Data Source:**
@@ -36,7 +36,7 @@ Credit Card Details – Client number, card category, annual fees, credit limit,
 
 Customer Details – Client number, customer age, gender, education level, marital status, state, job, income, salary group, dependent count, and satisfaction score
 
-Additional Weekly Data – Week 53 customer and transaction records used for updated reporting
+Additional Weekly Data – Extra customer and transaction records used for updated reporting
 
 
 **5. Features:**
@@ -108,13 +108,15 @@ Compares revenue generated through Swipe, Chip, and Online transaction methods.
 5. Decision Support: Help stakeholders monitor credit card operations and financial performance
 
 
-**6. Dashboard Files:**
+**6. Dashboard Preview:**
 
-- [Transaction Report PDF](screenshots/Credit%20Card%20Financial%20Dashboard-Transaction.pdf)
+### Transaction Report
 
-- [Customer Report PDF](screenshots/Credit%20Card%20Financial%20Dashboard-Customer.pdf)
+![Transaction Report](screenshots/transaction_report.png)
 
-- [Weekly Dashboard Report PDF](screenshots/Credit%20Card%20Financial%20Weekly%20Dashboard%20Report.pdf)
+### Customer Report
+
+![Customer Report](screenshots/customer_report.png)
 
 
 ## 👩‍💻 Author
